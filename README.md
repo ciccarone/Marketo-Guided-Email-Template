@@ -1,6 +1,6 @@
 # Marketo Guided Email Template
 
-Responsive module-based email template used newsletters, event notifications, and updates for global online reputation company.
+Responsive module-based email template used newsletters, event notifications, and updates
 
 * Litmus-tested and email client compatible
 * Ability to use background images
